@@ -26,8 +26,9 @@ random.dat
 .vagrant
 Guardfile
 .env
-.pyc
+*.pyc
 *.iml
 config/prod/rabbitmq/client/
+tests/__pycache__
 config/prod/rabbitmq/server/
 config/prod/rabbitmq/testca/
